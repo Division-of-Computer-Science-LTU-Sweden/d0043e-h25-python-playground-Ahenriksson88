@@ -1,1 +1,6 @@
-print("Hello World, I am Module 1, Exercise 1")
+length = 10
+width = 33
+
+import math
+rectangle_area = length * width
+print("The area of the rectangle is:", rectangle_area)
